@@ -1,1 +1,16 @@
-There is some new changes
+ git status
+  186  git add .
+  187  git status
+  188  git commit -m "added succesfully"
+  189  git status
+  190  git push origin main
+  191  ls -l
+  192  ls -a
+  193  git pull origin main
+  194  cat commands.txt
+  195  git pull origin main
+  196  git pull origin master
+  197  /usr/local/bin/python3 /Users/mehrunnisa/Documents/GitHub/pull-push-demo/pull_push_demo.py
+  198  ls
+
+  
