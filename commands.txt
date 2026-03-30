@@ -1,4 +1,4 @@
- git status
+  185  git status
   186  git add .
   187  git status
   188  git commit -m "added succesfully"
